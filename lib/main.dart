@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
         accentColor: new Color(0xff25D366),
       ),
       home: new WhatsappHome(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
